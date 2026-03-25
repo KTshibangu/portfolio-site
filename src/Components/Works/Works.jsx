@@ -72,7 +72,7 @@ const Works = () => {
             </a>
 
             <a
-              href="https://sacrdc-frontend.onrender.com"
+              href="https://github.com/KTshibangu/Pizza-Sales-Report/blob/main/Home%20Tab.png"
               target="_blank"
               rel="noopener noreferrer"
               className="card-link"
@@ -81,16 +81,16 @@ const Works = () => {
                 <img src={Portfolio4} alt="Project" className="card-img" />
 
                 <div className="card-body">
-                  <h3 className="card-title">Full Stack Web App</h3>
+                  <h3 className="card-title">Sales Report Analysis</h3>
                   <p className="card-text">
-                    Built a school management system web app
+                    Used Excel for data cleaning and preparation, SQL for defining KPIs and metrics, Power BI for visualization
                   </p>
                 </div>
               </div>
             </a>
 
             <a
-              href="https://sacrdc-frontend.onrender.com"
+              href="https://github.com/KTshibangu/loan-analysis/blob/main/Loan%20Analysis.ipynb"
               target="_blank"
               rel="noopener noreferrer"
               className="card-link"
@@ -99,9 +99,9 @@ const Works = () => {
                 <img src={Portfolio5} alt="Project" className="card-img" />
 
                 <div className="card-body">
-                  <h3 className="card-title">Full Stack Web App</h3>
+                  <h3 className="card-title">Loan Analysis</h3>
                   <p className="card-text">
-                    Built a school management system web app
+                    Used Python, pandas, numpy for data cleaning and data analysis
                   </p>
                 </div>
               </div>
@@ -117,9 +117,9 @@ const Works = () => {
                 <img src={Portfolio6} alt="Project" className="card-img" />
 
                 <div className="card-body">
-                  <h3 className="card-title">Full Stack Web App</h3>
+                  <h3 className="card-title">Loan Assessment Analysis</h3>
                   <p className="card-text">
-                    Built a school management system web app
+                    Analyzed good and bad loans for a bank by using Python, pandas, numpy
                   </p>
                 </div>
               </div>
