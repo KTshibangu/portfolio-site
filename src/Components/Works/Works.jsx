@@ -90,7 +90,7 @@ const Works = () => {
             </a>
 
             <a
-              href="https://github.com/KTshibangu/loan-analysis/blob/main/Loan%20Analysis.ipynb"
+              href="https://github.com/KTshibangu/house-prediction-ml/blob/main/House%20Prediction%20ML.ipynb"
               target="_blank"
               rel="noopener noreferrer"
               className="card-link"
@@ -99,16 +99,16 @@ const Works = () => {
                 <img src={Portfolio5} alt="Project" className="card-img" />
 
                 <div className="card-body">
-                  <h3 className="card-title">Loan Analysis</h3>
+                  <h3 className="card-title">House Prediction Model</h3>
                   <p className="card-text">
-                    Used Python, pandas, numpy for data cleaning and data analysis
+                    Used Python, and Machine Learning libraies to train this house prices dataset
                   </p>
                 </div>
               </div>
             </a>
 
             <a
-              href="https://sacrdc-frontend.onrender.com"
+              href="https://github.com/KTshibangu/loan-analysis/blob/main/Loan%20Analysis.ipynb"
               target="_blank"
               rel="noopener noreferrer"
               className="card-link"
