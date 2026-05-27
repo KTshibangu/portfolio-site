@@ -28,18 +28,19 @@
     font-size: 1.05rem;
     max-width: 51rem;
     padding: 0 2rem;
-    margin: auto;
+    margin: 0 auto 40px;
 }
 
 .clientImgs {
     margin: 1rem 0;
     display: flex;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 .clientImg {
     object-fit: cover;
-    width: 23%;
+    width: 45%;
     min-width: 9rem;
     margin: auto;
 }
@@ -89,6 +90,7 @@
     border-radius: 0.5rem;
     margin: 2rem;
     padding: 0.75rem 3.5rem;
+    cursor: pointer;
 }
 
 .links {

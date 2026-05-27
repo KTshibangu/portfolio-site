@@ -1,10 +1,10 @@
 import React from 'react';
 import { useRef } from 'react';
 import './Contact.css';
-import Walmart from '../../assets/walmart.png';
-import Adobe from '../../assets/adobe.png';
-import Microsoft from '../../assets/microsoft.png';
-import Facebook from '../../assets/facebook.png';
+import PythonCert from '../../assets/python-cert.png';
+import PowerBICert from '../../assets/powerbi-cert.png';
+import JavascriptCert from '../../assets/javascript-cert.png';
+import ReactCert from '../../assets/react-cert.png';
 import FacebookIcon from '../../assets/facebook-icon.png';
 import TwitterIcon from '../../assets/twitter.png';
 import YoutubeIcon from '../../assets/youtube.png';
@@ -43,10 +43,10 @@ const Contact = () => {
                 improving my skills and staying up to date with modern technologies in both fields.
             </p>
             <div className="clientImgs">
-                <img src={Walmart} alt="client" className="clientImg" />
-                <img src={Adobe} alt="client" className="clientImg" />
-                <img src={Microsoft} alt="client" className="clientImg" />
-                <img src={Facebook} alt="client" className="clientImg" />
+                <img src={PythonCert} alt="client" className="clientImg" />
+                <img src={PowerBICert} alt="client" className="clientImg" />
+                <img src={JavascriptCert} alt="client" className="clientImg" />
+                <img src={ReactCert} alt="client" className="clientImg" />
             </div>
         </div>
         <div id="contact">
